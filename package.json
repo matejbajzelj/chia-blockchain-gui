@@ -41,7 +41,7 @@
     "bytes-iec": "^3.1.1",
     "connected-react-router": "^6.9.1",
     "core-js": "^3.13.1",
-    "crypto-browserify": "^3.12.0",
+    "crypto-browserify": "^3.12.1",
     "dotenv": "^10.0.0",
     "es6-promise": "^4.2.8",
     "framer-motion": "^3.10.6",
